@@ -10,7 +10,8 @@
 |-------|---------|
 | Title | Fein Habibi |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 24, 2026 |
+| Lyric Writing Date | April 23, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/fein-habibi/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,10 +19,10 @@
 
 ## Excerpt
 
-> with open("lyric-raw.txt", "w", encoding="utf-8") as f:
-> f.write("""
 > يا حبيبي اقترب ودعنا نذوب
 > في عتمة الليل حيث تحلو الدروب
+> أريد أن ألمس فيك نار الشغف
+> حتى نضيع في العشق دون أسف
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
